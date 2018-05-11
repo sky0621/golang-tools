@@ -4,6 +4,15 @@ Tools written in Golang.
 ### ■指定プロジェクト内のファイル別ステップカウンター
 https://github.com/sky0621/go-stepcounter
 
+### ■【作成中】AWSの(主に)describe系APIを使って各サービスの情報を一覧表示する。今のところSQS、EC2、RDS、DynamoDBのみ。
+https://github.com/sky0621/aws-describe-prj
+
+### ■テストコードひな形を自動生成
+https://github.com/sky0621/go-testcode-autogen
+
+### ■ gitlab のリポジトリ一覧（コミット数の多い順にコミッターも表示）を生成
+https://github.com/sky0621/gitlab-seek-expert
+
 ### ■指定ディレクトリ内のプロジェクトが依存するライブラリとバージョンを一覧化（glide.yaml参照）
 https://github.com/sky0621/usu-moduli
 
@@ -19,11 +28,3 @@ https://github.com/sky0621/go-diff
 ### ■プロジェクト毎の使用テーブル一覧を生成
 https://github.com/sky0621/go-crud
 
-### ■ gitlab のリポジトリ一覧（コミット数の多い順にコミッターも表示）を生成
-https://github.com/sky0621/gitlab-seek-expert
-
-### ■テストコードひな形を自動生成
-https://github.com/sky0621/go-testcode-autogen
-
-### ■【作成中】AWSの(主に)describe系APIを使って各サービスの情報を一覧表示する。今のところSQS、EC2、RDS、DynamoDBのみ。
-https://github.com/sky0621/aws-describe-prj
